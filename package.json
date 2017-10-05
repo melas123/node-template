@@ -1,0 +1,25 @@
+{
+  "name": "hello-npm",
+  "version": "0.0.0",
+  "description": "A minimal Node project for The npm Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TrevorBurnham/hello-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "example"
+  ],
+  "author": "Trevor Burnham",
+  "license": "BSD",
+  "dependencies": {
+    "colors": "~0.6.0-1"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "a9520a1b20e7592e9d97da32524c920c632c63c3",
+  "devDependencies": {}
+}
