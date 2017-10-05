@@ -1,0 +1,21 @@
+{
+  "name": "node-template",
+  "description": "Bootstra admin template with node",
+  "main": "index.js",
+  "authors": [
+    "Harrathi Salem"
+  ],
+  "license": "BSD",
+  "keywords": [
+    "npm",
+    "example"
+  ],
+  "homepage": "https://github.com/melas123/node-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
