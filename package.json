@@ -14,17 +14,20 @@
     "npm",
     "example"
   ],
-  "author": "Trevor Burnham",
+  "author": "Harrathi Salem",
   "license": "BSD",
   "dependencies": {
     "colors": "~0.6.0-1",
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "gulp-inject": "^4.3.0",
+    "wiredep": "^4.0.0"
   },
   "readmeFilename": "README.md",
   "gitHead": "a9520a1b20e7592e9d97da32524c920c632c63c3",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.4",
-    "jshint": "^2.9.5"
+    "jshint": "^2.9.5",
+    "gulp-nodemon": "^2.2.1"
   }
 }
