@@ -1,33 +1,31 @@
 {
-  "name": "hello-npm",
-  "version": "0.0.0",
-  "description": "A minimal Node project for The npm Book",
+  "name": "node-template",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/TrevorBurnham/hello-npm.git"
-  },
-  "keywords": [
-    "npm",
-    "example"
-  ],
-  "author": "Harrathi Salem",
-  "license": "BSD",
   "dependencies": {
-    "colors": "~0.6.0-1",
+    "ejs": "^2.5.7",
     "express": "^4.16.1",
     "gulp-inject": "^4.3.0",
     "wiredep": "^4.0.0"
   },
-  "readmeFilename": "README.md",
-  "gitHead": "a9520a1b20e7592e9d97da32524c920c632c63c3",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.4",
     "jshint": "^2.9.5",
     "gulp-nodemon": "^2.2.1"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melas123/node-template.git"
+  },
+  "author": "Harrathi Salem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melas123/node-template/issues"
+  },
+  "homepage": "https://github.com/melas123/node-template#readme"
 }
